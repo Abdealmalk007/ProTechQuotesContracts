@@ -1,0 +1,20 @@
+Third-party software notices — ProTech Quotes & Contracts v2.0.0-beta.2
+
+The proprietary All Rights Reserved notice covers original ProTech-owned code only. Bundled dependencies retain
+their respective licenses and may require additional notices or source offers.
+
+PySide6 / shiboken6 6.11.2 — LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only,
+with commercial licensing options. LGPL-compliant replacement of shipped Qt
+dynamic libraries must remain possible. https://doc.qt.io/qtforpython-6/licenses.html
+Qt and related modules: https://www.qt.io/licensing/open-source-lgpl-obligations
+
+ReportLab 5.0.1 — BSD-style license: https://www.reportlab.com/
+Pillow 12.3.0 — HPND license: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+arabic-reshaper 3.0.1 — MIT: https://github.com/mpcabd/python-arabic-reshaper
+python-bidi 0.6.12 — LGPL: https://github.com/MeirKriheli/python-bidi
+PyInstaller 6.22.2 — GPL with application-distribution exception:
+https://pyinstaller.org/en/stable/license.html
+
+All copyrights remain with their respective holders. Review the full binary
+dependency inventory and corresponding license terms before wide commercial
+redistribution. This file does not itself certify complete LGPL compliance.

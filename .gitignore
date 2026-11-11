@@ -1,0 +1,13 @@
+*.db
+*.sqlite
+*.sqlite3
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+*.exe
+*.zip
+*.apk
+*.log
+__pycache__/
