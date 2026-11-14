@@ -1,9 +1,4 @@
-REGRESSION=209/209 PASS
-FROZEN_SELF_TEST=14/14 PASS
-INSTALL_CLEAN=PASS
-INSTALL_UPGRADE=PASS
-UNINSTALL=PASS
-USER_DATA_CANARY=PASS
-V1_INSTALL_PRESERVED=YES
-AUTHENTICODE=NotSigned
-SHA256=FE5243B1F82FCFF7D7F8C5BBF6B1B3603276841B122FEBCB0423C386EB474269
+ProTech Quotes & Contracts v2.0.0-beta.3 — Customer RC3, 2026-11-14.
+Python 212/212 PASS. Frozen EXE QA 14/14 PASS. Installed clean and same-version upgrade selftest 14/14 each PASS, uninstall PASS.
+Setup.exe 57,879,493 bytes. SHA256 e8a36b4823a656fea16c5dff9fe57b24eed6575ed48f153c0b5a658de4b8e722.
+Unsigned (NotSigned). Independent Qt LGPL / third-party distribution compliance signoff pending. Final release gate HOLD. Beta evaluation only.
